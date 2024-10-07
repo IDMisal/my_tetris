@@ -1,0 +1,21 @@
+#gameContainer {
+    display: flex;
+    align-items: center;
+}
+
+#gameCanvas {
+    border: 1px solid black;
+}
+
+#info {
+    margin-left: 20px;
+}
+
+#info div {
+    margin-bottom: 10px;
+}
+
+#playButton {
+    padding: 10px;
+    font-size: 16px;
+}
